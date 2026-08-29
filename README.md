@@ -145,5 +145,5 @@ scratch — the D3 globe/flight-path component and the PDF's
   `VITE_API_BASE_URL` to the deployed server's URL.
 - **Server** → Render/Railway. Configure CORS to allow the deployed client
   origin.
-- Live deployment link: _add after deploying_.
-- GitHub repo: _add repo URL_.
+- Live deployment link: https://build-my-trip-ten.vercel.app/ .
+- GitHub repo: https://github.com/code-spydy/build-my-trip .
