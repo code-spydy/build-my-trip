@@ -1,0 +1,45 @@
+.jg-root {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  font-family: inherit;
+}
+
+.jg-controls {
+  padding: 1.25rem 1.5rem 0.5rem;
+  display: flex;
+  justify-content: center;
+}
+
+.jg-scene-wrap {
+  position: relative;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.jg-svg {
+  width: 100%;
+  height: 100%;
+}
+
+.jg-chip-top-right {
+  position: absolute;
+  top: 12px;
+  right: 20px;
+}
+
+.jg-modal-body {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.jg-footer {
+  padding: 0.75rem 1.5rem 1.5rem;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}

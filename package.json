@@ -1,0 +1,11 @@
+{
+  "name": "deyor-trip-builder",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Full-stack trip itinerary builder (client + server as independent npm projects)",
+  "scripts": {
+    "dev:client": "npm run dev --prefix client",
+    "dev:server": "npm run dev --prefix server",
+    "test:server": "npm test --prefix server"
+  }
+}

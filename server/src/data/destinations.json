@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "name": "Bali, Indonesia",
+    "pricePerNight": 4500,
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bali%2C_Rice_fields%2C_Rice_terraces_in_East_Bali%2C_Indonesia.jpg/1920px-Bali%2C_Rice_fields%2C_Rice_terraces_in_East_Bali%2C_Indonesia.jpg",
+    "tagline": "Where temples meet tides.",
+    "activities": [
+      { "name": "Sunrise trek at Mount Batur", "interest": "adventure", "duration": "full-day" },
+      { "name": "White-water rafting, Ayung River", "interest": "adventure", "duration": "half-day" },
+      { "name": "Nusa Penida snorkeling trip", "interest": "adventure", "duration": "full-day" },
+      { "name": "Ubud rice terrace walk", "interest": "leisure", "duration": "half-day" },
+      { "name": "Beach club day, Seminyak", "interest": "leisure", "duration": "full-day" },
+      { "name": "Tanah Lot Temple visit", "interest": "culture", "duration": "half-day" },
+      { "name": "Traditional Balinese cooking class", "interest": "culture", "duration": "half-day" },
+      { "name": "Besakih Mother Temple visit", "interest": "culture", "duration": "half-day" },
+      { "name": "Uluwatu cliff & Kecak dance show", "interest": "attractions", "duration": "half-day" },
+      { "name": "Tegallalang swing & viewpoint", "interest": "attractions", "duration": "half-day" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Coorg, Karnataka",
+    "pricePerNight": 3500,
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Tadiandamol_Valley%2C_Western_Ghats.jpg/1920px-Tadiandamol_Valley%2C_Western_Ghats.jpg",
+    "tagline": "Misted hills, quiet mornings.",
+    "activities": [
+      { "name": "Trek to Tadiandamol Peak", "interest": "adventure", "duration": "full-day" },
+      { "name": "River rafting at Barapole", "interest": "adventure", "duration": "half-day" },
+      { "name": "Talakaveri source trek", "interest": "adventure", "duration": "half-day" },
+      { "name": "Coffee plantation walk", "interest": "leisure", "duration": "half-day" },
+      { "name": "Raja's Seat sunset viewpoint", "interest": "leisure", "duration": "half-day" },
+      { "name": "Nagarhole spice plantation tour", "interest": "leisure", "duration": "half-day" },
+      { "name": "Namdroling Monastery visit", "interest": "culture", "duration": "half-day" },
+      { "name": "Omkareshwara Temple visit", "interest": "culture", "duration": "half-day" },
+      { "name": "Abbey Falls visit", "interest": "attractions", "duration": "half-day" },
+      { "name": "Dubare Elephant Camp visit", "interest": "attractions", "duration": "half-day" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Goa",
+    "pricePerNight": 5000,
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BeachFun.jpg/1920px-BeachFun.jpg",
+    "tagline": "Sun, shore, and siesta.",
+    "activities": [
+      { "name": "Scuba diving at Grande Island", "interest": "adventure", "duration": "full-day" },
+      { "name": "Parasailing at Baga Beach", "interest": "adventure", "duration": "half-day" },
+      { "name": "Dudhsagar Waterfall trek", "interest": "adventure", "duration": "full-day" },
+      { "name": "Sunset cruise on the Mandovi", "interest": "leisure", "duration": "half-day" },
+      { "name": "Beach hopping — Anjuna to Vagator", "interest": "leisure", "duration": "half-day" },
+      { "name": "Anjuna flea market evening", "interest": "leisure", "duration": "half-day" },
+      { "name": "Old Goa churches walk", "interest": "culture", "duration": "half-day" },
+      { "name": "Spice plantation & Goan lunch", "interest": "culture", "duration": "half-day" },
+      { "name": "Fort Aguada visit", "interest": "attractions", "duration": "half-day" },
+      { "name": "Chapora Fort sunset", "interest": "attractions", "duration": "half-day" }
+    ]
+  }
+]

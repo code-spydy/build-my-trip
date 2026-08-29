@@ -1,0 +1,14 @@
+.app-main {
+  max-width: 820px;
+  margin: 0 auto;
+  padding: 32px 20px 64px;
+}
+
+/* The journey/globe view fills the viewport edge-to-edge below the header
+   instead of sitting in the constrained, padded card the other views use. */
+.app-main--fullscreen {
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  height: calc(100vh - var(--header-height));
+}
